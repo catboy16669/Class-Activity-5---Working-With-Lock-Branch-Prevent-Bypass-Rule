@@ -1,2 +1,4 @@
 adding some text for task2
-add text in second branh for task 20
+modified text file for the task 7
+
+adding more text for the main branch for task12 
